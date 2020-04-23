@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cam-cube/static/css/main.f7202470.chunk.css",
-    "main.js": "/cam-cube/static/js/main.edd8b544.chunk.js",
-    "main.js.map": "/cam-cube/static/js/main.edd8b544.chunk.js.map",
+    "main.css": "/cam-cube/static/css/main.de822da2.chunk.css",
+    "main.js": "/cam-cube/static/js/main.a3812d0a.chunk.js",
+    "main.js.map": "/cam-cube/static/js/main.a3812d0a.chunk.js.map",
     "runtime-main.js": "/cam-cube/static/js/runtime-main.f57e8781.js",
     "runtime-main.js.map": "/cam-cube/static/js/runtime-main.f57e8781.js.map",
     "static/js/2.ef2e7f45.chunk.js": "/cam-cube/static/js/2.ef2e7f45.chunk.js",
     "static/js/2.ef2e7f45.chunk.js.map": "/cam-cube/static/js/2.ef2e7f45.chunk.js.map",
     "index.html": "/cam-cube/index.html",
-    "precache-manifest.e6d4fff7a2b3709a71c86cd35a0cef5a.js": "/cam-cube/precache-manifest.e6d4fff7a2b3709a71c86cd35a0cef5a.js",
+    "precache-manifest.3c840df339a0a8bd73eff980bd80a3e1.js": "/cam-cube/precache-manifest.3c840df339a0a8bd73eff980bd80a3e1.js",
     "service-worker.js": "/cam-cube/service-worker.js",
-    "static/css/main.f7202470.chunk.css.map": "/cam-cube/static/css/main.f7202470.chunk.css.map",
+    "static/css/main.de822da2.chunk.css.map": "/cam-cube/static/css/main.de822da2.chunk.css.map",
     "static/js/2.ef2e7f45.chunk.js.LICENSE.txt": "/cam-cube/static/js/2.ef2e7f45.chunk.js.LICENSE.txt",
     "static/media/AERONET.png": "/cam-cube/static/media/AERONET.52f76c0c.png",
     "static/media/CamCubeMain.png": "/cam-cube/static/media/CamCubeMain.1fbbebd6.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.f57e8781.js",
     "static/js/2.ef2e7f45.chunk.js",
-    "static/css/main.f7202470.chunk.css",
-    "static/js/main.edd8b544.chunk.js"
+    "static/css/main.de822da2.chunk.css",
+    "static/js/main.a3812d0a.chunk.js"
   ]
 }
