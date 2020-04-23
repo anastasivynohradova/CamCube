@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/cam-cube/static/css/main.f52dfacc.chunk.css",
+    "main.js": "/cam-cube/static/js/main.b844c628.chunk.js",
+    "main.js.map": "/cam-cube/static/js/main.b844c628.chunk.js.map",
+    "runtime-main.js": "/cam-cube/static/js/runtime-main.f57e8781.js",
+    "runtime-main.js.map": "/cam-cube/static/js/runtime-main.f57e8781.js.map",
+    "static/js/2.ef2e7f45.chunk.js": "/cam-cube/static/js/2.ef2e7f45.chunk.js",
+    "static/js/2.ef2e7f45.chunk.js.map": "/cam-cube/static/js/2.ef2e7f45.chunk.js.map",
+    "index.html": "/cam-cube/index.html",
+    "precache-manifest.598f476b3fed0bb27442bef49e98819e.js": "/cam-cube/precache-manifest.598f476b3fed0bb27442bef49e98819e.js",
+    "service-worker.js": "/cam-cube/service-worker.js",
+    "static/css/main.f52dfacc.chunk.css.map": "/cam-cube/static/css/main.f52dfacc.chunk.css.map",
+    "static/js/2.ef2e7f45.chunk.js.LICENSE.txt": "/cam-cube/static/js/2.ef2e7f45.chunk.js.LICENSE.txt",
+    "static/media/AERONET.png": "/cam-cube/static/media/AERONET.52f76c0c.png",
+    "static/media/CamCubeMain.png": "/cam-cube/static/media/CamCubeMain.1fbbebd6.png",
+    "static/media/Polarimeter.png": "/cam-cube/static/media/Polarimeter.2be5e21b.png",
+    "static/media/Rakete.gif": "/cam-cube/static/media/Rakete.d4dda8af.gif",
+    "static/media/ferntransport.jpg": "/cam-cube/static/media/ferntransport.06d574f5.jpg",
+    "static/media/fifth.jpg": "/cam-cube/static/media/fifth.6b0e768a.jpg",
+    "static/media/fourth.jpg": "/cam-cube/static/media/fourth.36b7cd89.jpg",
+    "static/media/App.css": "/cam-cube/static/media/modern_no.20-webfont.d876a05e.woff",
+    "static/media/second.png": "/cam-cube/static/media/second.4df56219.png",
+    "static/media/sixth.jpg": "/cam-cube/static/media/sixth.a756497d.jpg",
+    "static/media/unilogo.jpg": "/cam-cube/static/media/unilogo.95715f55.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f57e8781.js",
+    "static/js/2.ef2e7f45.chunk.js",
+    "static/css/main.f52dfacc.chunk.css",
+    "static/js/main.b844c628.chunk.js"
+  ]
+}
